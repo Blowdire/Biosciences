@@ -1,0 +1,9 @@
+credentials.json
+./BERN2
+articles_bern2.dump
+doc_processed.dump
+kilt_titles_trie_dict.pkl
+lang_title2wikidataID-normalized_with_redirect.pkl
+ldavis_prepared_15.html
+ldavis_prepared_5.html
+__pycache__/trie.cpython-310.pyc
